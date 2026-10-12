@@ -148,5 +148,4 @@ PulseSort/
 - Multi-class classification
 - Performance evaluation
 - Visualization
-
 ---
